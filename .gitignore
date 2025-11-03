@@ -1,0 +1,200 @@
+# Logs directory
+logs/
+*.log
+statistics/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
+*.backup
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Service configuration
+game_filter.enabled
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+
+# NeoZapret build files (исключаем скомпилированные файлы)
+NeoZapret/bin/
+NeoZapret/obj/
+NeoZapret-Release/
+NeoZapret-Installer-Temp/
+NeoZapretSetup/bin/
+NeoZapretSetup/Output/
+*.exe
+*.pdb
+*.dll
+!bin/*.dll
+!bin/*.sys
+!bin/*.bin
+!bin/winws.exe
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+
+# Test results
+TestResults/
+[Tt]est[Rr]esult*/
+*.trx
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# CodeRush
+.cr/
+
+# Python Tools
+__pycache__/
+*.pyc
+
+# Publish profiles
+*.pubxml
+*.publishproj
+
+# Others
+*.cache
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+.builds
+*.pidb
+*.svclog
+*.scc
+
+

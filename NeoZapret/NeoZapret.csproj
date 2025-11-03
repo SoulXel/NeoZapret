@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net472</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <AssemblyTitle>NeoZapret</AssemblyTitle>
+    <AssemblyProduct>NeoZapret</AssemblyProduct>
+    <AssemblyDescription>DPI Bypass Tool - Обход блокировок РФ</AssemblyDescription>
+    <AssemblyCompany>SoulXel</AssemblyCompany>
+    <AssemblyCopyright>© 2025 SoulXel</AssemblyCopyright>
+    <AssemblyVersion>3.1.0.0</AssemblyVersion>
+    <FileVersion>3.1.0.0</FileVersion>
+    <Version>3.1.0-alpha</Version>
+  </PropertyGroup>
+  
+  <!-- Ссылки на сборки .NET Framework -->
+  <ItemGroup>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  
+  <!-- Icon will be added later, commented to allow build without it -->
+  <!-- <ItemGroup>
+    <EmbeddedResource Include="icon.ico" />
+  </ItemGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup> -->
+</Project>
+

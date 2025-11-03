@@ -1,0 +1,16 @@
+﻿google.com
+google.ru
+google.com.tr
+google.co.uk
+gmail.com
+youtube.com
+youtu.be
+ytimg.com
+googlevideo.com
+googleapis.com
+googleusercontent.com
+googletagmanager.com
+google-analytics.com
+googleadservices.com
+doubleclick.net
+gstatic.com

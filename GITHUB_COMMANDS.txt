@@ -1,0 +1,32 @@
+===========================================
+КОМАНДЫ ДЛЯ ПУБЛИКАЦИИ НА GITHUB
+===========================================
+
+ЗАМЕНИТЕ "YOUR_USERNAME" НА ВАШ GITHUB USERNAME!
+
+1. Перейдите в папку проекта:
+cd C:\Users\xeldi\Desktop\NeoZapret
+
+2. Инициализация Git (если еще не сделано):
+git init
+
+3. Добавление всех файлов:
+git add .
+
+4. Создание первого коммита:
+git commit -m "Initial commit: NeoZapret v3.1.0 - Production ready"
+
+5. Добавление удаленного репозитория:
+git remote add origin https://github.com/YOUR_USERNAME/NeoZapret.git
+
+6. Переименование ветки в main:
+git branch -M main
+
+7. Загрузка на GitHub:
+git push -u origin main
+
+===========================================
+ВАЖНО: При git push используйте Personal Access Token как пароль!
+См. инструкцию в QUICK_GITHUB_PUBLISH.md
+===========================================
+
