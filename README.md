@@ -6,7 +6,7 @@
 
 ## 🚀 Быстрый старт
 
-1. Скачайте **NeoZapret.exe** или **NeoZapret-Setup.exe** из Releases
+1. Скачайте **NeoZapret** из Releases
 2. Запустите от имени администратора
 3. Готово!
 
