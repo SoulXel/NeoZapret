@@ -131,7 +131,6 @@
 ## 👨‍💻 Автор
 
 - GitHub: [SoulXel](https://github.com/SoulXel)
-- Telegram: [@xeldi](https://t.me/xeldi)
 - Discord: Lu1ky
 
 ## 🙏 Благодарности
