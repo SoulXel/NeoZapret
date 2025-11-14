@@ -111,17 +111,6 @@
 2. Используйте **Рекомендуемую** стратегию
 3. Запустите диагностику
 
-## 📁 Структура проекта
-
-```
-NeoZapret/
-├── NeoZapret/          # GUI приложение (C# Windows Forms)
-├── NeoZapretSetup/     # Установщик (Inno Setup)
-├── bin/                # winws.exe, WinDivert, TLS/QUIC паттерны
-├── lists/              # Списки доменов и IP адресов
-└── logs/               # Логи приложения
-```
-
 ## 🆘 Поддержка
 
 - **GitHub Issues**: [Создайте issue](https://github.com/SoulXel/NeoZapret/issues)
