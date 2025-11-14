@@ -1,3 +1,4 @@
+<img width="1000" height="700" alt="Снимок экрана 2025-11-14 212403" src="https://github.com/user-attachments/assets/9c0be6fb-babb-42aa-8bc2-5aa607fb6813" />
 # 🔓 NeoZapret - Обход блокировок РФ 2025
 
 Современное GUI приложение для обхода DPI (Deep Packet Inspection) блокировок в России. Основано на [winws](https://github.com/Flowseal/winws).
