@@ -4,7 +4,8 @@
 
 
 
-<img width="994" height="695" alt="image" src="https://github.com/user-attachments/assets/417de9dd-4def-4849-b762-3354fa34630b" />
+<img width="994" height="695" alt="image" src="https://github.com/user-attachments/assets/9ea39f40-2b5a-4624-8893-8f1e001df7d4" />
+
 
 ## 🚀 Быстрый старт
 
