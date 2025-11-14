@@ -1,4 +1,4 @@
-#           🔓 NeoZapret - Обход блокировок РФ 2025
+# ㅤㅤㅤㅤ🔓 NeoZapret - Обход блокировок РФ 2025
 
 ### Современное GUI приложение для обхода DPI (Deep Packet Inspection) блокировок в России. Основано на [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube).
 
