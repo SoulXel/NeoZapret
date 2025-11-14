@@ -14,7 +14,7 @@
 
 ## ✨ Основные возможности
 
-### 🔓 Обход блокировок
+### 🔓 Обход блокировок в РФ
 - Discord (включая Discord.media), YouTube, Google
 - GitHub, GitLab, Bitbucket, Cursor Editor
 - AI сервисы: OpenAI, Claude, Perplexity
