@@ -60,7 +60,7 @@
 - Rate limiting для сетевых запросов
 
 ## 🔧 Системные требования
-
+- Убедитесь, что установлен **.NET 8.0 Desktop Runtime** ([Скачать](https://dotnet.microsoft.com/download/dotnet/8.0))
 - Windows 7 SP1 или выше
 - Права администратора
 - Сетевое подключение к интернету
