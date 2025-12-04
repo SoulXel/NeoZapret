@@ -17,12 +17,11 @@
 ## ✨ Основные возможности
 
 ### 🔓 Обход блокировок в РФ
-- Discord (включая Discord.media), YouTube, Google
-- GitHub, GitLab, Bitbucket, Cursor Editor
-- AI сервисы: OpenAI, Claude, Perplexity
-- Игры: Steam, Epic Games, Battlefield, EA Games
-- Социальные сети: Reddit, Twitter/X, Instagram, Facebook, TikTok
-- Стриминг: Twitch, Netflix, Spotify, SoundCloud
+- Discord, YouTube, Google
+- OpenAI, Claude, Perplexity
+- Steam, Epic Games, Battlefield, EA Games
+- Reddit, Twitter/X, Instagram, Facebook,
+- Twitch, Netflix, Spotify, SoundCloud
 
 ### ⚙️ Стратегии обхода
 
@@ -97,12 +96,7 @@
 
 **MIT License** - см. файл [LICENSE](LICENSE)
 
-Проект распространяется свободно в образовательных целях.
-
-## ⚠️ Внимание
-
-- Убедитесь, что использование соответствует законам вашей страны
-- Разработчики не несут ответственности за неправомерное использование
+Проект распространяется свободно в образовательных целях
 
 ## 👨‍💻 Автор
 
@@ -117,4 +111,3 @@
 
 ---
 
-**Версия**: 3.2.1 | **Последнее обновление**: 11/27/2025
